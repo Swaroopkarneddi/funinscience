@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.temp {
+  height: 100vh;
+}

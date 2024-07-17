@@ -1,0 +1,9 @@
+.headder {
+    width: auto;
+    height: fit-content;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-size: 1.8rem;
+}
