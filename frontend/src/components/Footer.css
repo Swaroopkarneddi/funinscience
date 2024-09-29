@@ -12,8 +12,6 @@
     grid-template-rows: auto;
 }
 
-
-
 .footer_top_comp>h3 {
     font-size: 2rem;
     margin-top: 0%;
@@ -46,4 +44,16 @@
 
 .copy_right>span {
     font-size: 2rem;
+}
+
+@media only screen and (max-width: 840px) {
+    .footer_top {
+        justify-content: left;
+        height: fit-content;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10vh;
+        display: grid;
+        grid-template-columns: auto;
+    }
 }
